@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Workoutio React Website',
     description: "This is the final project, It's a activity tracker web app, that you can use to track your activity or excercise.",
-      image: '/images/workoutio.png',
+      image: '/images/workoutio.jpg',
       tags: ['MongoDB', 'Express', 'React', 'Node.js'],
     source: 'https://github.com/bellzilith/workoutio',
     visit: 'https://github.com/bellzilith/workoutio',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Jamming Spotify API',
     description:"This project is to learn how the API work. It is connect to spotify API and let's you create and customize playlist.",
-    image: '/images/jamming.png',
+    image: '/images/jamming.jpg',
     tags: ['React', 'JavaScript'],
     source: 'https://github.com/bellzilith/jsd-jamming-assessment',
     visit: 'https://belljamming.netlify.app/',
